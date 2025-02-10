@@ -1,6 +1,7 @@
 <template>
   <div class="student-dashboard">
     <!-- 左侧导航栏 -->
+<!--    添加了一行注释用于测试git提交-->
     <div class="sidebar">
       <el-menu
           :default-active="activeMenu"
